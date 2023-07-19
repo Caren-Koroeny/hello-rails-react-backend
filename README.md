@@ -91,7 +91,7 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository by using the command line to your desired folder:  
+Clone this repository by using the command line to your desired folder check this out:  
 
 ```sh
 git clone https://github.com/Caren-Koroeny/hello-rails-react-backend.git
